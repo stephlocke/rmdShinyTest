@@ -1,0 +1,1 @@
+This repo shows how an image in CSS works with ioslides, unless the shiny runtime is added.
